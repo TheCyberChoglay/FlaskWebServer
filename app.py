@@ -1,6 +1,6 @@
 # app.py
 
-from app_init import create_app
+from app__init__ import create_app
 
 # Create an instance of the Flask app
 app = create_app()
